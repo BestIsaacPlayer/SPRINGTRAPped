@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="8" height="6" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="FNAF3_pizzeiria.tsx"/>
+ <layer id="1" name="Floor/Wall" width="8" height="6">
+  <data encoding="csv">
+3,12,12,12,12,12,12,4,
+14,9,9,9,9,9,9,13,
+14,9,9,9,9,9,9,13,
+14,9,9,9,9,9,9,13,
+14,9,9,9,9,9,9,13,
+2,11,7,9,9,6,11,1
+</data>
+ </layer>
+</map>
