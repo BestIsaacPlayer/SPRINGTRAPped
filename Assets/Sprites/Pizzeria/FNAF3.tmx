@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="8" height="6" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="FNAF3.tsx"/>
+ <layer id="1" name="Floor/Walls" width="8" height="6">
+  <data encoding="csv">
+1,18,18,18,18,18,18,2,
+21,7,7,7,7,7,7,22,
+21,7,7,7,7,7,7,22,
+21,7,7,7,7,7,7,22,
+21,7,7,7,7,7,7,22,
+10,17,17,7,7,17,17,9
+</data>
+ </layer>
+</map>
